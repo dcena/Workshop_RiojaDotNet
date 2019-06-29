@@ -3,9 +3,9 @@ dist: xenial
 mono: none
 dotnet: 2.2.104
 
-addons:
-  sonarcloud:
-    organization: "jorturfer-github"   
+#addons:
+  #sonarcloud:
+    #organization: "jorturfer-github"   
 os:
   - linux
   - osx
